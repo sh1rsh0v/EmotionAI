@@ -1,0 +1,24 @@
+Source file  : dataset_final_verified_v2_neutral.csv
+Total samples: 9876
+Train size   : 7134
+Val size     : 1260
+Test size    : 1482
+Seed         : 42
+
+Label mapping:
+  0 → neutral
+  1 → happiness
+  2 → anger
+  3 → disgust
+  4 → sadness
+  5 → surprise
+  6 → fear
+
+Class distribution (full):
+  neutral     :  3203
+  happiness   :  2415
+  anger       :  1562
+  disgust     :   510
+  sadness     :  1464
+  surprise    :   509
+  fear        :   213
